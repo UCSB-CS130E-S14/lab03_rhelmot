@@ -1,4 +1,4 @@
-lab03_rhelmot
-=============
+CS130E-S14-Labs
+===============
 
-lab03 for Andrew Dutcher
+labs for CS130E-S14
